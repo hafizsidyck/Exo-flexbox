@@ -1,0 +1,54 @@
+body {
+    margin: 100PX;
+    padding: 100px;
+    display: flex;
+
+}
+.container {
+    height: 600px;
+    width: 600px;
+    display: flex;
+    background-color: blue;
+    align-items: center;
+    justify-content: center;
+    opacity: 10;
+}
+.circle1 {
+    height: 450px;
+    width: 450px;
+    border-radius: 50%;
+    position: relative;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle2 {
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    display: flex;  
+}
+.circle3 {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    background-color: greenyellow;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.circle4 {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: violet;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+    
